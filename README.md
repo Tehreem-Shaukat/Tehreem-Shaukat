@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-> Passionate Director at **[Alpha Solutions](https://github.com/Alpha-SolutionsCode)**, focusing on front-end development, clean UI/UX, and scalable applications. Skilled in crafting modern, responsive designs and building seamless digital experiences. Excited about design systems, collaboration, and innovative technologies.
+> Passionate Director at **[Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC)**, focusing on front-end development, clean UI/UX, and scalable applications. Skilled in crafting modern, responsive designs and building seamless digital experiences. Excited about design systems, collaboration, and innovative technologies.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Coding GIF">
@@ -49,7 +49,7 @@
 
 ## 🏢 Alpha Solutions - Software House
 
-* **Organization:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode)
+* **Organization:** [Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC)
 * **Role:** Director
 * **Focus:** Building scalable, user-friendly web apps with stunning UI/UX.
 * **Tech:** React, JavaScript, Tailwind CSS, Figma.
